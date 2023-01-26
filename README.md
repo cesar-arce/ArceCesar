@@ -1,6 +1,8 @@
 # Hi there 👋
 Bienvenue dans mon portfolio de science des données. Ma passion est de vous aider à augmenter la compétitivité, la croissance des ventes et les chiffres d'affaires, en transformant les données brutes en informations précieuses pour prendre de meilleures décisions !! Utiliser des technologies de pointe, telles que le Machine Learning ou le Deep Learning (en utilisant Python ou R) 👍
 
+## >> From Raw Data to Machine Learning (ML)  >> Des données brutes à l'apprentissage automatique (ML)
+
 <img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500"/>
 
 <p style='text-align: justify;'>
