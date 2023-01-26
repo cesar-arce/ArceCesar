@@ -16,7 +16,7 @@ Business Intelligence - BI (axé sur l'analyse descriptive), je travaille à tra
 
 ### Mon parcour :
   
-Je suis titulaire d'un MBA par cadres, d'un baccalauréat en administration aérospatiale, d'un baccalauréat en comptabilité (CPA, CMA), d'un certificat en finance d'entreprise, d'une spécialisation en science des données et l'Apprentissage automatique (ML) à l'Université Johns Hopkins, entre autres.
+Je suis titulaire d'un MBA par cadres, d'un baccalauréat en administration aérospatiale, d'un baccalauréat en comptabilité (CPA, CMA), d'un certificat en finance d'entreprises, d'une spécialisation en science des données et l'Apprentissage automatique (ML) à l'Université Johns Hopkins, entre autres.
 
   • 💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 
