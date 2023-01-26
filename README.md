@@ -20,7 +20,7 @@ Je suis titulaire d'un MBA par cadres, d'un baccalauréat en administration aér
 
   • 💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL (Extract-Transfer-Load), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 
-### Languages and Tools:
+### Langages et outils:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="PyCharm" width="36px" src="https://user-images.githubusercontent.com/63738694/124551882-c6b44000-de00-11eb-913d-fc32307a5c3d.jpg">
