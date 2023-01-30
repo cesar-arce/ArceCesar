@@ -14,10 +14,6 @@ Business Intelligence - BI (axé sur l'analyse descriptive), je travaille à tra
 
   Business Analytics - BA (axé sur l'analyse prédictive), en tant que spécialiste Data Scientist, je travaille en utilisant les données pour anticiper les tendances et les résultats. Comprend généralement l'exploration de données, l'analyse statistique et quantitative, la modélisation prédictive et l'apprentissage automatique (ML) pour anticiper et déterminer la probabilité des résultats futurs, qui aident à prendre des décisions plus éclairées et à apporter les changements nécessaires pour réussir. En effet, comme dans le business analytics, je prépare une analyse prédictive pour résoudre les problèmes avant qu'ils ne surviennent.
 
-### Mon parcours :
-  
-Je suis titulaire d'un MBA par cadres, d'un baccalauréat en administration aérospatiale, d'un baccalauréat en comptabilité (CPA, CMA), d'un certificat en finance d'entreprises, d'une spécialisation en science des données et l'Apprentissage automatique (ML) à l'Université Johns Hopkins, entre autres.
-
   • 💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 
 ### Langages et outils:
