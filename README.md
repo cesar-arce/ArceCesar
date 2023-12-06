@@ -1,4 +1,5 @@
-# Salut !!! <h3 align="left">
+# Salut !!! 
+<h3 align="center">
     <img src="/waving.gif" 
          alt="Waving"
          height="45"
