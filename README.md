@@ -1,8 +1,8 @@
 # Salut !!! 👋
 ![Banner](./banner.png)
 
-<p align="justify"> 
-### Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
+
+### <p align="justify">  Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
 </p>
 
 ## >> From Raw Data to Machine Learning (ML)  
