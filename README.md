@@ -1,7 +1,14 @@
+<!--- snake -->
+<div align="center">
+  <img  src="./grid-snake.svg"
+       alt="snake" /></a>
+</div>
+</details>
+
 <h3 align="center">
     Salut !!!
     <img src="/wave.gif" 
-         alt="Waving hand animated gif"
+         alt="Waving"
          height="45"
          width="45" />
 </h3>
