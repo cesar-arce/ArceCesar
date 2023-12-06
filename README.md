@@ -20,7 +20,13 @@
 ## >> From Raw Data to Machine Learning (ML)  
 ## >> Des données brutes vers l'Apprentissage automatique (ML)
 
+<!--
 <img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="450"/>
+-->
+
+<img align="right" src=https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif width="500"/>
+
+<p style='text-align: justify;'>
 
 ### Mes spécialités : 
 
