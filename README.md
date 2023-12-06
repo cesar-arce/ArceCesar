@@ -1,5 +1,6 @@
 # Salut !!! 👋
 ![Banner](./banner.png)
+
 ### Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
 
 ## >> From Raw Data to Machine Learning (ML)  
@@ -7,9 +8,8 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500"/>
 
-<p style='text-align: justify;'>
-
 ### Mes spécialités : 
+
 <p align="justify">  
 🚀 Scientifique des Données - En tant que Data Scientist spécialisé en Intelligence Artificielle, je mets en œuvre des modèles de Machine Learning et de Deep Learning pour extraire des connaissances précieuses à partir des données. J'utilise des algorithmes avancés et des techniques de modélisation pour résoudre des problèmes complexes et faire des prédictions précises, optimisent les processus et permettent l'automatisation intelligente des tâches. Je suis passionné par l'exploration de nouvelles méthodes et technologies de l'IA pour résoudre des défis réels et contribuer à l'innovation dans divers domaines.
 
@@ -20,10 +20,10 @@
 
 
   
-  💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, SSRS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
+💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, SSRS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 </p>
 
-  📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
+📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
 
 ### Langages et outils:
 
