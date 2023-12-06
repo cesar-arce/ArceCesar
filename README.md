@@ -1,5 +1,5 @@
 <h3 align="center">
-    # Salut !!!
+    Salut !!!
     <img src="/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
