@@ -23,8 +23,8 @@
 <!--
 <img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="450"/>
 -->
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-right: 20px; margin-bottom: 20px;"/>
+<p align="right"> 
+  <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="450" style="margin-left: 20px; margin-bottom: 20px;"/>
 </p>
 
 
