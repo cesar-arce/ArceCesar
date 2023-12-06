@@ -1,6 +1,6 @@
 
 <h3 align="left">
-    <img src="/wave.gif" 
+    <img src="/waving.gift" 
          alt="Waving"
          height="45"
          width="45" />
