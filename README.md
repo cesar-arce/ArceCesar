@@ -1,12 +1,4 @@
 
-<h3 align="left">
-    Salut !!!
-    <img src="/waving.gif" 
-         alt="Waving"
-         height="45"
-         width="45" />
-</h3>
-
 <h2 align="left" style="font-size: 24px;">
     Salut !!!
     <img src="/waving.gif" 
