@@ -1,4 +1,4 @@
-# Salut !!! 
+
 <h3 align="center">
     Salut !!!
     <img src="/waving.gif" 
@@ -7,8 +7,9 @@
          width="45" />
 </h3>
 
-
+<!--
 # Salut !!! 👋
+-->
 ![Banner](./banner.png)
 
 
