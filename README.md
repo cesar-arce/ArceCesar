@@ -1,5 +1,7 @@
 # Salut !!! 👋
 ![Banner](./banner.png)
+
+<p style="text-align: justify;">
 ### Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
 
 ## >> From Raw Data to Machine Learning (ML)  
@@ -23,7 +25,7 @@
   💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, SSRS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
 
   📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
-
+</p>
 ### Langages et outils:
 
 <p align="center">
