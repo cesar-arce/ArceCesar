@@ -1,6 +1,5 @@
 
 <p align="left">
-    Salut !!! 
     <img src="/wave.gif" 
          alt="Waving"
          height="45"
