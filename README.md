@@ -1,5 +1,5 @@
 
-<h2 align="left" style="font-size: 24px;">
+<h2 align="left" style="font-size: 36px;">
     Salut !!!
     <img src="/waving.gif" 
          alt="Waving"
