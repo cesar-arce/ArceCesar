@@ -1,10 +1,10 @@
 
-<p align="left">
+<h3 align="left">
     <img src="/wave.gif" 
          alt="Waving"
          height="45"
          width="45" />
-</p>
+</h3>
 
 
 # Salut !!! 👋
