@@ -28,11 +28,11 @@
 <p align="right"> 
   <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-left: 20px; margin-bottom: 20px;"/>
 </p>
-<p style='text-align: justify;'>
+<p style="text-align: justify">
 -->
 ### Mes spécialités : 
 
-<p style='text-align: justify;'>
+<p align="justify"> 
 🚀 Scientifique des Données - En tant que Data Scientist spécialisé en Intelligence Artificielle, je mets en œuvre des modèles de Machine Learning et de Deep Learning pour extraire des connaissances précieuses à partir des données. J'utilise des algorithmes avancés et des techniques de modélisation pour résoudre des problèmes complexes et faire des prédictions précises, optimisent les processus et permettent l'automatisation intelligente des tâches. Je suis passionné par l'exploration de nouvelles méthodes et technologies de l'IA pour résoudre des défis réels et contribuer à l'innovation dans divers domaines.
 
 </p>
