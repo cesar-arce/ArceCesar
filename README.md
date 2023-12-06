@@ -7,6 +7,10 @@
          width="45" />
 </h3>
 
+
+## Salut !!!
+![Waving](/waving.gif){: height="45" width="45" }
+
 <!--
 # Salut !!! 👋
 -->
