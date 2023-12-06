@@ -11,7 +11,7 @@
 <p style='text-align: justify;'>
 
 ### Mes spécialités : 
-  
+<p align="justify">  
 🚀 Scientifique des Données - En tant que Data Scientist spécialisé en Intelligence Artificielle, je mets en œuvre des modèles de Machine Learning et de Deep Learning pour extraire des connaissances précieuses à partir des données. J'utilise des algorithmes avancés et des techniques de modélisation pour résoudre des problèmes complexes et faire des prédictions précises, optimisent les processus et permettent l'automatisation intelligente des tâches. Je suis passionné par l'exploration de nouvelles méthodes et technologies de l'IA pour résoudre des défis réels et contribuer à l'innovation dans divers domaines.
 
 📈 Business Intelligence - BI (axé sur l'analyse descriptive), Je transforme les données en informations à valeur commerciale, améliorant ainsi l'efficacité opérationnelle et aidant les entreprises à accroître leur productivité. Je génère des rapports intuitifs et lisibles contenant des données pertinentes et exploitables. J'identifie les tendances pour soutenir la prise de décision, moderniser les processus et améliorer les résultats financiers.
@@ -22,7 +22,7 @@
 
   
   💬 Demandez-moi sur : Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, SSRS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
-
+</p>
   📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
 
 ### Langages et outils:
