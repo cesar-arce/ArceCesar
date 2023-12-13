@@ -48,6 +48,12 @@
 
 </p>
 
+### 👨‍💻 Mon parcours :
+<p align="justify">  
+En plus de mes compétences techniques, je suis titulaire d'un MBA pour cadres (EMBA), de deux baccalauréats en Administration et Comptabilité (CPA, CMA), d'une spécialisation en Science des Données de l'Université Johns Hopkins, ainsi que d'un certificat professionnel en Analyse de Données de Google, entre autres.
+
+</p>
+
 ### 💬 Demandez-moi sur :
 <p align="justify">   
 Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project, MySQL, PostgreSQL, SQL Server - SSMS, SSIS, SSRS, Alteryx / KNIME, EDA (Exploratory Data Analysis), ETL Datawarehouse (Extract-Transform-Load), ELT Datalake (Extract-Load-Transform), Power BI (Desktop-Service-Mobile), Tableau, Python (NumPy, Pandas, Matplotlib, Seaborn, Bokeh), Practical Machine Learning (ML), Deep Learning (DL), Data Modeling in R (tidyr, ggplot2, plotly, dplyr , Kéras).
