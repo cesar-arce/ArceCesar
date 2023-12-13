@@ -54,7 +54,7 @@ Data Science, Business Intelligence, Business Analyst, MS Microsoft, MS Project,
 
 </p>
 
-📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/)
+📫 Comment me joindre:   [My Site](https://cesararce5.wixsite.com/mysite?lang=fr) ou mon [LinkedIn](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/?locale=fr_FR)
 
 ### Langages et outils:
 
