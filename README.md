@@ -11,6 +11,9 @@
 <!--
 # Salut !!! 👋
 -->
+
+Je peux vous aider à libérer le véritable potentiel de vos données
+
 ![Banner](./banner.png)
 
 
