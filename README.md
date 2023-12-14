@@ -12,7 +12,7 @@
 # Salut !!! 👋
 -->
 
-#  <p align="justify"> Je peux vous aider à libérer le véritable potentiel de vos données
+# <p align="justify"> Je peux vous aider à libérer le véritable potentiel de vos données
 
 </p>
 
@@ -23,10 +23,13 @@
 
 </p>
 
-## >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)  
+## <p align="justify"> >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)  
 
-## >> Des Données brutes, en passant par l'Apprentissage Automatique (ML), jusqu'à l'Intelligence Artificielle (IA)
+</p>
 
+## <p align="justify"> >> Des Données brutes, en passant par l'Apprentissage Automatique (ML), jusqu'à l'Intelligence Artificielle (IA)
+
+</p>
 
 <img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-right: 20px; margin-left: 50px"/>
 
