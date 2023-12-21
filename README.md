@@ -38,11 +38,11 @@
 
 </p>
 
-## <p align="justify"> >> From Raw Data, through Machine Learning (ML), to Artificial Intelligence (AI)  
+## <p align="justify"> >> Transforming Raw Data with Data Science into Artificial Intelligence (AI)  
 
 </p>
 
-## <p align="justify"> >> Des Données brutes, en passant par l'Apprentissage Automatique (ML), jusqu'à l'Intelligence Artificielle (IA)
+## <p align="justify"> >> Transformer les données brutes avec la science des données en Intelligence Artificielle (IA)
 
 </p>
 
