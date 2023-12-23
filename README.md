@@ -38,11 +38,11 @@
 
 </p>
 
-## <p align="justify"> >> Transforming Raw Data with Data Science into Artificial Intelligence (AI)  
+## <p align="justify"> >> Transforming your Raw Data with Data Science into Artificial Intelligence (AI)  
 
 </p>
 
-## <p align="justify"> >> Transformer les données brutes avec la Science des données en Intelligence Artificielle (IA)
+## <p align="justify"> >> Transformez vos données brutes avec la Science des données en Intelligence Artificielle (IA)
 
 </p>
 
