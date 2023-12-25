@@ -18,7 +18,7 @@
 
 [![Cesar-arce github](https://img.shields.io/badge/GitHub-cesar-arce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite?lang=fr)
-[![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-%230077B5.svg?style=flat&logo=linkedin&logoColor=5087B2)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/?locale=fr_FR)
+[![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin&logoColor=5087B2)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713/?locale=fr_FR)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
