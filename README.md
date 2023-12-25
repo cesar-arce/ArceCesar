@@ -18,18 +18,32 @@
 
 [![Cesar-arce github](https://img.shields.io/badge/GitHub-cesar-arce.svg?style=flat&logo=github)](https://github.com/cesar-arce)
 [![Cesar Arce website](https://img.shields.io/badge/Website-Cesar_Arce-5087B2.svg?style=flat&logo=telegram)](https://cesararce5.wixsite.com/mysite?lang=fr)
+[![Cesar Arce LinkedIn](https://img.shields.io/badge/LinkedIn-Cesar_Arce-5087B2.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/cesar-arce-mba-%F0%9F%8C%BF-70167713)
 [![python](https://img.shields.io/badge/Python-3.06|3.07|3.08|3.09|3.10|3.11|3.12-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
+[![jupyter](https://img.shields.io/badge/Jupyter-NoteBook-F37626.svg?style=flat&logo=Jupyter)](https://jupyter.org)
 [![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=flat&logo=Jupyter)](https://jupyterlab.readthedocs.io/en/stable)
-[![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
+[![VS Code](https://img.shields.io/badge/VS_Code-1.85-blue.svg?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![VS Code Dev](https://img.shields.io/badge/VS_Code_Dev-OnLine-blue.svg?logo=visualstudiocode)](https://vscode.dev/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-1.12-FF6F00.svg?style=flat&logo=tensorflow)](https://www.tensorflow.org)
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
-[![pydocstyle](https://img.shields.io/badge/pydocstyle-enabled-AD4CD3)](http://www.pydocstyle.org/en/stable/)
+[![Keras](https://img.shields.io/badge/Keras-3.0-FF6F00.svg?style=flat&logo=Keras)](https://keras.io/)
+[![pytorch](https://img.shields.io/badge/PyTorch-1.6.0-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
+[![Snowflake](https://img.shields.io/badge/Snowflake-DataBase-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-Streamlit-5087B2.svg?style=flat&logo=snowflake)](https://docs.snowflake.com/en/developer-guide/streamlit/about-streamlit)
+[![Amazon_AWS](http://img.shields.io/badge/AWS-Services-5087B2.svg?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![Google](https://img.shields.io/badge/Google-Services-4285F4?style=flat&logo=google&logoColor=white)](https://www.google.com/)
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=flat&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.63.0-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.2.0-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
 [![R](https://img.shields.io/badge/-script-276DC3.svg?style=flat&logo=R)](https://cran.r-project.org)
 [![RStudio](https://img.shields.io/badge/RStudio-project-75AADB.svg?style=flat&logo=RStudio)](https://www.rstudio.com)
+
+<!-- 
+[AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
+[![pydocstyle](https://img.shields.io/badge/pydocstyle-enabled-AD4CD3)](http://www.pydocstyle.org/en/stable/)
+-->
 
 ![Banner](./banner.png)
 
