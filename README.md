@@ -62,7 +62,7 @@
 
 </p>
 
-## <p align="justify"> >> Transformez vos données brutes grâce à la Science des données en Intelligence Artificielle (IA)
+## <p align="justify"> >> Transformez vos données brutes avec la Science des données en Intelligence artificielle (IA)
 
 </p>
 
