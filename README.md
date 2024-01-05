@@ -12,7 +12,11 @@
 # Salut !!! 👋
 -->
 
-# <p align="justify"> Je peux vous aider à libérer le véritable potentiel de vos données
+# <p align="justify"> 🚀 La science des données et l'intelligence artificielle sont mes passions !
+
+</p>
+
+# <p align="justify"> 🔓 Je peux vous montrer comment libérer le véritable potentiel de vos données
 
 </p>
 
