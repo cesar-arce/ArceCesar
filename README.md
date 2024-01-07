@@ -65,10 +65,11 @@
 
 </p>
 
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
+<img align="right" src="https://media.giphy.com/media/YknAouVrcbkiDvWUOR/giphy.gif" width="500"/>
 
 <!--
 <p style='text-align: justify;'>
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
 <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-left: 20px; margin-bottom: 20px;"/>
 </p>
 <p style="text-align: justify">
