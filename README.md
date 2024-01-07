@@ -59,18 +59,16 @@
 
 ### <p align="justify">  Bienvenue dans mon portfolio en science des données. Ma passion est de vous aider à accroître votre compétitivité, augmenter vos ventes et optimiser votre chiffre d'affaires en transformant les données brutes en informations précieuses, afin de prendre de meilleures décisions ! J'utilise des technologies de pointe, telles que l'apprentissage automatique (Machine Learning) et l'apprentissage profond (Deep Learning), en utilisant les langages Python et R. 👍
  
-
 </p>
 
 ## <p align="justify"> >> Transformez vos données brutes avec la Science des données en Intelligence artificielle (IA)
 
 </p>
 
-<img align="right" src=https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif width="500"/>
-
-<p style='text-align: justify;'>
+<img align="right" src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500"/>
 
 <!--
+<p style='text-align: justify;'>
 <p align="right"> 
   <img src="https://user-images.githubusercontent.com/123665882/214939231-66e09936-ee20-44e1-b1da-ff8a2647a965.gif" width="500" style="margin-left: 20px; margin-bottom: 20px;"/>
 </p>
