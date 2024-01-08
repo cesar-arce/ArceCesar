@@ -1,6 +1,6 @@
 
 <h2 align="left" style="font-size: 48px;">
-    print("Bonjour tout le monde") 
+    print("Salut le monde!") 
     <img src="/waving.gif" 
          alt="Waving"
          height="45"
