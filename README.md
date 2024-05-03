@@ -12,7 +12,7 @@
 # Salut !!! 👋
 -->
 
-## <p align="justify"> 🚀 La science des données et l'intelligence artificielle sont mes passions !
+## <p align="justify"> 🚀 La science des données consiste à utiliser les données pour prendre des décisions intelligentes!
 
 </p>
 
